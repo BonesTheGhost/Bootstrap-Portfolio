@@ -1,3 +1,13 @@
+h1 {
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+h2 {
+    padding-top: 25px;
+    margin: auto;
+}
+
 #myName {
     padding-left: 20px;
     padding-top: 20px;
@@ -7,4 +17,26 @@
     padding-left:25px;
     padding-top: 50px;
     font-size: 15px;
+}
+
+#profilePic {
+    padding-left:40px;
+    padding-top: 30px;
+}
+
+
+.clearfix {
+    clear: both;
+}
+
+.trophies {
+    width: 33%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
 }
